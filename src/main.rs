@@ -7,6 +7,6 @@ fn main() {
     let msg2 = greet("world");
     let msg3 = greet("world");
     println!("{}", msg);
-    println!("{}", ms);
-    println!("{}", g3);
+    println!("{}", msg2);
+    println!("{}", msg3);
 }
